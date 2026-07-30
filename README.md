@@ -250,8 +250,4 @@ dashboard/images/seller_analysis.png
 
 Business Information Technology Student
 
-Aspiring Data Analyst | Business Intelligence | Cloud & Analytics
-
-GitHub: *(Add your GitHub profile)*
-
-LinkedIn: *(Add your LinkedIn profile)*
+Data Analyst | Business Intelligence | Cloud & Analytics
