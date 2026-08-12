@@ -75,22 +75,6 @@ Evaluates shipping efficiency and delivery reliability.
 
 ---
 
-### 4. Seller & Product Analysis
-
-Examines seller performance and product trends.
-
-**Key Metrics**
-- Top Sellers
-- Best-Selling Categories
-- Review Scores by Category
-
-**Key Questions Answered**
-- Which sellers generate the most revenue?
-- Which product categories perform best?
-- How do customer reviews vary across categories?
-
----
-
 ## Project Workflow
 
 ```
