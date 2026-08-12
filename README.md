@@ -203,21 +203,6 @@ olist-ecommerce-analysis/
 
 ---
 
-## Dashboard Preview
-
-*(Add screenshots here after completing the dashboard.)*
-
-Example:
-
-```
-dashboard/images/sales_overview.png
-dashboard/images/customer_analysis.png
-dashboard/images/delivery_performance.png
-dashboard/images/seller_analysis.png
-```
-
----
-
 ## Future Improvements
 
 - Build an interactive forecasting model
